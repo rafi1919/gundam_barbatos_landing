@@ -1,0 +1,14 @@
+@keyframes slide{
+    0%{
+        background-image: url("../img/test.png");
+    }
+    25%{
+        background-image: url("../img/test1.png");
+    }
+    50%{
+        background-image: url("../img/test2.png");
+    }
+    75%{
+        background-image: url("../img/test3.png");
+    }
+}
